@@ -4,7 +4,7 @@ The dashboard provides valuable business insights through interactive reports, K
 
 ---
 
-![image alt](https://github.com/shubhamsonawane964-design/Business---Sales---Analytics-Powerbi-Dashboard-/blob/113ec4c130ded44a4368afe4b8805012b5c966d5/screenshots/Dashboard_Page_1.png.jpeg_)
+![image alt](https://github.com/shubhamsonawane964-design/Business---Sales---Analytics-Powerbi-Dashboard-/blob/915ee548c50b40be88860f9ca45d5908b591b8cb/screenshots/Dashboard_Page_1.png.jpeg?raw=true)
 
 
 ## 🎯 Project Objectives
